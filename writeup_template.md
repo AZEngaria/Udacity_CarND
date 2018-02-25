@@ -1,9 +1,5 @@
 # **Traffic Sign Recognition** 
 
-## Writeup
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Build a Traffic Sign Recognition Project**
@@ -189,13 +185,6 @@ The top five soft max probabilities for the 5 test data are below. The model cla
 
 For the second image (No Parking Image), the model is relatively sure that this is a End of No Passing sign (probability of 0.6), and the image does contain a No Parking. The top five soft max probabilities were
 
-| Probability               	|     Prediction	        					| 
-|:---------------------        :|:---------------------------------------------:| 
-|  0.687683702        			| Road work   									| 
-|  0.687683702     				| End of no passing 							|
-|  0.687683702					| Speed limit (60km/h)						    |
-|  0.687683702	      			| No entry           					 		|
-|  0.687683702				    | Right-of-way at the next intersection 		|
 
 |			  Probability 								|     Prediction	        					| 
 |:-------------------------------------------------:|:---------------------------------------------:| 
