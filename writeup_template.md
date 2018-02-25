@@ -99,7 +99,8 @@ ClassID SignName                                                % Training  % Va
 40      Roundabout mandatory                                     0.86       1.36
 41      End of no passing                                        0.60       0.68
 42      End of no passing by vehicles over 3.5 metric tons       0.60       0.68
-/<pre>
+</pre>
+
 ### Design and Test a Model Architecture
 
 #### Techniques for Preprocessing the image data.
