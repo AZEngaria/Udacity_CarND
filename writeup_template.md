@@ -137,8 +137,6 @@ My final model consisted of the following layers:
 | Dropout    				| Keep Probability: 50%							|
 | Fully connected   		| 84x43. Output = 43. Bias 43       			|
 | Softmax   				|  									            |
-|					    	|										  		|
-|					    	|										   		|
  
 
 
