@@ -186,13 +186,13 @@ The top five soft max probabilities for the 5 test data are below. The model cla
 For the second image (No Parking Image), the model is relatively sure that this is a End of No Passing sign (probability of 0.6), and the image does contain a No Parking. The top five soft max probabilities were
 
 
-|			  Probability 								|     Prediction	        					| 
-|:-------------------------------------------------:|:---------------------------------------------:| 
-|  0.687683702                                 		| Road work    									| 
-|  0.687683702                          			| End of no passing   							|
-|  0.687683702                             | Speed limit (60km/h)							|
-|  0.687683702                 	      		| No entry  					 				|
-|  0.687683702 			| Right-of-way at the next intersection  		|  
+|			  Max Probability 								|     Prediction	        					| Probabilities        					           |
+|:--------------------------:|:----------------------------:| :-----------------------------------:| 
+|  0.687683702                                 		| Road work    								| '0.687', '0.227', '0.0848', '0.00014', '0.000121'  |
+|  0.687683702                          			| End of no passing   							| '0.687', '0.227', '0.0848', '0.00014', '0.000121'  |
+|  0.687683702                             | Speed limit (60km/h)							| '0.687', '0.227', '0.0848', '0.00014', '0.000121'  |
+|  0.687683702                 	      		| No entry  					 				          | '0.687', '0.227', '0.0848', '0.00014', '0.000121'  |
+|  0.687683702 			| Right-of-way at the next intersection  		           | '0.687', '0.227', '0.0848', '0.00014', '0.000121' |
 
 
 
