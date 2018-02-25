@@ -20,13 +20,13 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./visualise_final.png "Visualization"
-[image2]: ./grayscale.png "Grayscaling"
+[image2]: ./grayscale.PNG "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./SampleData/german_1.jpg "Traffic Sign 1"
-[image5]: ./SampleData/german_3.jpg "Traffic Sign 2"
-[image6]: ./SampleData/german_4.jpg "Traffic Sign 3"
-[image7]: ./SampleData/german_5.jpg "Traffic Sign 4"
-[image8]: ./SampleData/german_6.jpg "Traffic Sign 5"
+[image4]: ./SampleDataWriteup/german_1.jpg "Traffic Sign 1"
+[image5]: ./SampleDataWriteup/german_3.jpg "Traffic Sign 2"
+[image6]: ./SampleDataWriteup/german_4.jpg "Traffic Sign 3"
+[image7]: ./SampleDataWriteup/german_5.jpg "Traffic Sign 4"
+[image8]: ./SampleDataWriteup/german_6.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -54,7 +54,7 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed with respect to number of classes in the training, 
 
 ![alt text][image1]
-
+<pre>
 ClassID SignName                                                % Training  % Validation
 0       Speed limit (20km/h)                                     0.52       0.68
 1       Speed limit (30km/h)                                     5.69       5.44
@@ -99,7 +99,7 @@ ClassID SignName                                                % Training  % Va
 40      Roundabout mandatory                                     0.86       1.36
 41      End of no passing                                        0.60       0.68
 42      End of no passing by vehicles over 3.5 metric tons       0.60       0.68
-
+/<pre>
 ### Design and Test a Model Architecture
 
 #### Techniques for Preprocessing the image data.
