@@ -163,7 +163,7 @@ One of the interesting things I noticed was the model fails to classify a "known
 
 Another observation is that model appears to have low precision in some cases. Testing with an unseen input (last image) - "No Parking" results in the model classifying it with more that 60% accuracy as a "End of no passing". I believe, this probablity would have been lesser if the color components were included in images used for training. The second image is not in the training dataset.
 
-#### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
+#### 2. Model's Predictions on new traffic signs.
 
 Here are the results of the prediction:
 
