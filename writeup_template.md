@@ -197,6 +197,14 @@ For the second image (No Parking Image), the model is relatively sure that this 
 |  0.687683702	      			| No entry           					 		|
 |  0.687683702				    | Right-of-way at the next intersection 		|
 
+|			  Probability 								|     Prediction	        					| 
+|:-------------------------------------------------:|:---------------------------------------------:| 
+|  0.687683702                                 		| Road work    									| 
+|  0.687683702                          			| End of no passing   							|
+|  0.687683702                             | Speed limit (60km/h)							|
+|  0.687683702                 	      		| No entry  					 				|
+|  0.687683702 			| Right-of-way at the next intersection  		|  
+
 
 
 
